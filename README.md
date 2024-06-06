@@ -1,4 +1,9 @@
-# Simone Blanco Malerba, PhD 
+# Simone Blanco Malerba, PhD 🦝
+## About me
+I like to understand complex systems with mathematical models and data analysis.
+I am a physicist.
+## Projects
+
 
 <!--
 **simonebmalerba/simonebmalerba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
