@@ -1,8 +1,12 @@
 # Simone Blanco Malerba, PhD 🦝
 ## About me
 I like to understand complex systems with mathematical models and data analysis.
-I am a physicist.
+I am a physicist with variegate interdisciplinary interests, including electrical engineering ⚡️, machine learning 🤖, neuroscience 🧠, climate science 🌍 and biology 🧬.
+I am currently a Marie-Curie fellow at the UKE, in Hamburg, studying the computational role of non-neuronal cells (astrocytes ⭐️) in neural systems.
 ## Projects
+
+
+## Links
 
 
 <!--
