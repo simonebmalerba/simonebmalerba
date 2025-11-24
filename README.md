@@ -3,9 +3,9 @@
 I am a curious person. As such, I discovered that what I want to do in life is (attempt) to understand complex systems with mathematical models and data analysis.
 I am a physicist with variegate interdisciplinary interests, including engineering, machine learning, neuroscience, climate science and biology.
 
-I am currently a Marie-Curie fellow at the UKE, in Hamburg, studying the computational role of non-neuronal cells (astrocytes) in neural systems, with models and tools from physics and machine learning.
+I am currently a Marie-Curie fellow at UKE, in Hamburg, studying how neural systems encode and process information from the external world in order to produce complex behavior.
 
-In my free time I volunteer with Collaborative Earth, trying to use AI to create solutions for ecological restoration.
+In my free time I volunteer with Collaborative Earth in the AICACIA project, where we leverage automation, data, and AI to gather and synthesize available reforestation knowledge, in order to make quality information on best practices and techniques more readily available to practitioners.
 
 Beside science, I am a cinema lover, and I have a set of random nerdy passions for history, linguistic and maps. I am a (poor) middle-long distance runner and I like to hike onto big rocks.
 
