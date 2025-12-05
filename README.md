@@ -1,7 +1,7 @@
 # Simone Blanco Malerba, PhD 🦝
 ## About me
-I am a curious person. As such, I discovered that what I want to do in life is (attempt) to understand complex systems with mathematical models and data analysis.
-I am a physicist with variegate interdisciplinary interests, including engineering, machine learning, neuroscience, climate science and biology.
+I was a curious child. As such, I discovered that what I want to do in life is (attempt) to understand complex systems with mathematical models and data analysis.
+I became a physicist with variegate interdisciplinary interests, spacing between electrical engineering, machine learning, neuroscience, climate science and biology.
 
 I am currently a Marie-Curie fellow at UKE, in Hamburg, studying how neural systems encode and process information from the external world in order to produce complex behavior.
 
@@ -16,7 +16,7 @@ Beside science, I am a cinema lover, and I have a set of random nerdy passions f
 ## Links
 You can reach me on LinkedIN: www.linkedin.com/in/simone-blanco-malerba-50b61b146
 Mail: simone dot bmalerba at gmail dot com
-Google scholar: 
+Google scholar: https://scholar.google.com/citations?user=1dcAo3cAAAAJ&hl=it
 
 <!--
 **simonebmalerba/simonebmalerba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
