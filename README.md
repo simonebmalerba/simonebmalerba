@@ -28,14 +28,20 @@ I enjoy working at the intersection of **science, modeling, and computation**, t
 ## Current work
 
 I am currently a **Marie Curie Postdoctoral Fellow** at the University Medical Center Hamburg-Eppendorf (UKE), where I study how neural systems encode and process information from the external world to produce complex behavior.
-You can find a description of my project here: https://cordis.europa.eu/project/id/101152984
-Briefly, I try to understand how a type of cells of nervous tissue, astrocytes, might support compuation in neural networks.
 
-My work combines:
+You can find a description of the project here:  
+https://cordis.europa.eu/project/id/101152984
 
-- dynamical systems modeling  
-- statistical analysis of neural data  
-- machine learning for high-dimensional datasets  
+Briefly, my work investigates how **astrocytes**—a type of cell in nervous tissue—may contribute to computation in neural networks, particularly in the **hippocampus**.
+
+I analyze multimodal neural and behavioral recordings with different spatial and temporal resolutions (e.g. electrophysiology and calcium imaging) using advanced statistical and machine learning methods.
+
+This work combines:
+
+- analysis of large-scale neural recordings  
+- multimodal data integration  
+- machine learning and statistical modeling  
+- computational models 
 
 ---
 
@@ -61,7 +67,9 @@ Research on how neural circuits encode and process information using:
 
 - dynamical systems models  
 - statistical inference  
-- large-scale neural recordings  
+- large-scale neural recordings
+
+You can find a list of publications in Google Scholar.
 
 
 ---
