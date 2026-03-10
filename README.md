@@ -1,16 +1,16 @@
 # Simone Blanco Malerba, PhD 🦝
 
-**Machine Learning Engineer and Scientist •**
+**Research Scientist and Machine Learning Engineer **
 
 ---
 
 ## About me
 
-I study complex systems using mathematical models, data analysis, and machine learning.
+My background spans **electrical engineering, physics, and machine learning**, with nearly a decade of experience analyzing complex datasets and building computational models across different domains, including neuroscience, electrical engineering, machine learning and artificial intelligence.
 
-My background spans **electrical engineering, physics, and machine learning**, with 9 years of research experience in **neuroscience, information processing, and environmental systems**. I am particularly interested in how computational models can help understand and manage complex real-world systems.
+I am a researcher interested in understanding complex systems through mathematical modeling, data analysis, and machine learning.
 
-I enjoy working at the intersection of **science, modeling, and computation**, translating theoretical ideas into working code and experiments.
+At the same time, I enjoy building practical solutions, translating theoretical ideas into robust code, experiments, and data-driven systems that can support decision-making in real-world settings.
 
 ---
 
@@ -22,6 +22,7 @@ I enjoy working at the intersection of **science, modeling, and computation**, t
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ---
 
@@ -76,12 +77,8 @@ You can find a list of publications in Google Scholar.
 
 ## Outside science
 
-When not coding or thinking about models, I enjoy:
-
-- running and hiking onto large rocks  
-- cinema  
-- reading a book
-- maps and geography  
+When not coding or thinking about models, I enjoy running and hiking onto big rocks, cinema  a good book.
+Random nerdy stuff I am passionate about: maps, history, linguistic, sports.
 
 ---
 
